@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_BASE = "http://13.60.211.173:8000/api";
+const API_BASE = "https://kartz-3otv.onrender.com/api";
 
 const api = axios.create({
   baseURL: API_BASE,
